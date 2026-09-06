@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Arnav Sharma — Software engineering and ML systems</title>
+  <desc id="desc">Penn State Computer Science, Class of 2028. A dark navy banner with a subtle diagram of connected system components.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#0E1828"/><stop offset="1" stop-color="#132B38"/></linearGradient>
+    <linearGradient id="accent" x1="790" y1="70" x2="1150" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#52D6BB"/><stop offset="1" stop-color="#6B9BEF"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect x="52" y="48" width="36" height="4" rx="2" fill="#65DABD"/>
+  <text x="52" y="90" fill="#9CADBF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="2.4">PENN STATE CS · CLASS OF 2028</text>
+  <text x="48" y="156" fill="#F4F8FC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">Arnav Sharma</text>
+  <text x="52" y="202" fill="#B8C8D9" font-family="Arial, Helvetica, sans-serif" font-size="24">Software engineering &amp; ML systems</text>
+  <g opacity="0.65" stroke="url(#accent)" stroke-width="1.5">
+    <path d="M835 98H910L956 145H1080M835 182H910L956 145M1015 80V115L1050 145M1015 222V181L1050 145"/>
+    <rect x="796" y="75" width="78" height="46" rx="10" fill="#142B38"/>
+    <rect x="796" y="159" width="78" height="46" rx="10" fill="#142B38"/>
+    <rect x="980" y="58" width="70" height="44" rx="10" fill="#142B38"/>
+    <rect x="980" y="200" width="70" height="44" rx="10" fill="#142B38"/>
+    <rect x="1066" y="122" width="78" height="46" rx="10" fill="#142B38"/>
+  </g>
+  <g fill="#65DABD"><circle cx="956" cy="145" r="4"/><circle cx="835" cy="98" r="3" opacity="0.7"/><circle cx="835" cy="182" r="3" opacity="0.7"/></g>
+  <path d="M52 239H720" stroke="#304250"/>
+</svg>
