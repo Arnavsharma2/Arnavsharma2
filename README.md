@@ -1,10 +1,4 @@
-![Arnav Sharma — Software engineering and ML systems. Penn State CS, Class of 2028.](assets/header.svg)
-
 [Portfolio](https://arnav-sharma2.com) · [LinkedIn](https://www.linkedin.com/in/arnav-sharma2/) · [Open-source pull requests](#open-source-contributions)
-
-**Intern at IBM · Previously Doximity and WeFire · Penn State CS, Class of 2028**
-
-I work on backend systems, ML infrastructure, and reproducible evaluation, with an emphasis on understanding failure modes and measuring changes.
 
 ## Selected work
 
