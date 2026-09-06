@@ -1,5 +1,3 @@
-[Portfolio](https://arnav-sharma2.com) · [LinkedIn](https://www.linkedin.com/in/arnav-sharma2/) · [Open-source pull requests](#open-source-contributions)
-
 ## Projects
 
 | Project | What to explore |
