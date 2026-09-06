@@ -1,6 +1,6 @@
 ![Arnav Sharma — Software engineering and ML systems. Penn State CS, Class of 2028.](assets/header.svg)
 
-[Portfolio](https://arnav-sharma2.com) · [LinkedIn](https://www.linkedin.com/in/arnav-sharma2/) · [Open-source pull requests](https://github.com/pulls?q=is%3Apr+author%3AArnavsharma2+-user%3AArnavsharma2)
+[Portfolio](https://arnav-sharma2.com) · [LinkedIn](https://www.linkedin.com/in/arnav-sharma2/) · [Open-source pull requests](#open-source-contributions)
 
 **Intern at IBM · Previously Doximity and WeFire · Penn State CS, Class of 2028**
 
